@@ -1,0 +1,14 @@
+/.gradle/
+/gradle/
+/local.properties
+# Ignore idea folder in root folder
+/.idea/
+.DS_Store
+# Ignore all build folder in all folder
+build
+/captures
+# Ignore all .iml files in all folder
+*.iml
+/gradlew
+/gradlew.bat
+proguard-rules.pro
