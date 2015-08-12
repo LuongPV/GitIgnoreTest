@@ -10,3 +10,4 @@ build
 proguard-rules.pro
 /gradle/
 /.gradle/
+build.gradle
