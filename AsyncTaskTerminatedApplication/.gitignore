@@ -8,3 +8,5 @@ build
 # Ignore all .iml files in all folder
 *.iml
 proguard-rules.pro
+/gradle/
+/.gradle/
